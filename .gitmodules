@@ -4,3 +4,6 @@
 [submodule "game-of-life"]
 	path = game-of-life
 	url = https://github.com/wakaleo/game-of-life.git
+[submodule "dotnetcore-docs-hello-world"]
+	path = dotnetcore-docs-hello-world
+	url = https://github.com/Azure-Samples/dotnetcore-docs-hello-world.git
